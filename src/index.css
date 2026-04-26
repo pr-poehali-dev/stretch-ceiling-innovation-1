@@ -74,6 +74,10 @@
     border-color: hsl(var(--gold));
   }
 
+  .fill-gold {
+    fill: hsl(var(--gold));
+  }
+
   .text-dark {
     color: hsl(var(--dark));
   }
